@@ -345,3 +345,9 @@ h1 b {
     padding: 0 1.5rem 1.5rem;
   }
 }
+
+@media only screen and (min-width: 500px) {
+  #socials h2 {
+    margin-bottom: 0rem;
+  }
+}
